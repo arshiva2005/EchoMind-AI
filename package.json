@@ -1,0 +1,19 @@
+{
+  "name": "echomind-ai",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "EchoMind AI — an intelligent reflection, decision and personal growth companion.",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 5173",
+    "build": "vite build",
+    "start": "vite preview --host 0.0.0.0 --port 8080"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.110.7",
+    "dotenv": "^17.4.2"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
