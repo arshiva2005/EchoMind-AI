@@ -9,7 +9,7 @@ The platform combines conversational AI with productivity and self-reflection fe
 
 ## 🌐 Live Demo
 
-**Application:** http://echomind-env.eba-eqwdgfhi.us-west-2.elasticbeanstalk.com/
+**Application:** https://echomind-ai-tbjb.onrender.com/
 
 ## 🌟 Features
 
